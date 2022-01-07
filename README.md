@@ -19,7 +19,7 @@
 
 
 
-#Resources:
+# Resources:
 1. https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
 2. https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 3. https://www.youtube.com/watch?v=KMOmw19ZCGs
