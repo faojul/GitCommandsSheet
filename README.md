@@ -12,3 +12,14 @@
 9. git push -u origin main (if origin was set previously use this, otherwise use command #8)
 
 10. git pull "git-repo-URL" main
+
+
+
+
+
+
+
+#Resources:
+1. https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+2. https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+3. https://www.youtube.com/watch?v=KMOmw19ZCGs
